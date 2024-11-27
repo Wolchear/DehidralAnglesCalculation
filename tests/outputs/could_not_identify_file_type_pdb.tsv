@@ -1,0 +1,2 @@
+Unable to determine the file type, HEADER|CRYST1 or data_ is missing for identification. - at ./scripts/pdbx-NA-torison-GX line 335, <> line 1.
+ATOM|HETATM line length is equal 80, in this way, file will be interpreted as PDB file. - at ./scripts/pdbx-NA-torison-GX line 338, <> line 1.

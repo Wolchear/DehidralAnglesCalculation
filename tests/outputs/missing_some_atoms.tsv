@@ -1,0 +1,2 @@
+Could not find 05' atom in file: tests/inputs/1BNA_missing_some_atoms.pdb;chain: A;residue number: 1 at ./scripts/pdbx-NA-torison-GX line 240, <> line 392.
+Could not find C5' atom in file: tests/inputs/1BNA_missing_some_atoms.pdb;chain: A;residue number: 1 at ./scripts/pdbx-NA-torison-GX line 240, <> line 392.

@@ -1,0 +1,1 @@
+Could not find any atom for gamma angle calculation in file: tests/inputs/1BNA_missing_all_atoms.pdb;chain: A;residue number: 1 at ./scripts/pdbx-NA-torison-GX line 233, <> line 390.
